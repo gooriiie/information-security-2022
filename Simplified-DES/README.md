@@ -3,3 +3,15 @@
 
 ## 참고자료
 * https://sdescalculator.herokuapp.com/
+
+## 결과화면
+- **Plain Text** : 10110100  
+- **Key** : 1011100011  
+  
+- **Encrypted** : 00000100  
+- **Decrypted** : 10110100   
+  
+  
+![image](https://user-images.githubusercontent.com/34434155/192523324-142be364-96d7-4973-947b-18f3dfb747b0.png)  
+  
+![image](https://user-images.githubusercontent.com/34434155/192523538-92a77e49-64a6-4615-8733-afc0e9d1c5a1.png)  
