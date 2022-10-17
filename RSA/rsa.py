@@ -37,11 +37,13 @@ def make_keys(p: BigNumber, q: BigNumber):
 def rsa_encrypt(plain: BigNumber, e: BigNumber, n: BigNumber):
     # place your own implementation of rsa_encrypt
     result = (plain ** e) % n
+
     return result
 
 def rsa_decrypt(cipher: BigNumber, d: BigNumber, n: BigNumber):
     # place your own implementation of rsa_decrypt
     result = (cipher ** d) % n
+    
     return result
 
 primes = primesInRange(100, 1000)
